@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  YassirTask
+
+  Created by Moustafa Hegazy on 11/11/2024.
+  
+*/
+
+
+"CharactersTitle" = "Characters";
+"DeadChar" = "Dead Characters";
+"AliveChar" = "Alive Characters";
+"UnknownChar" = "Unknown Characters";
+"Dead" = "Dead";
+"Alive" = "Alive";
+"unknown" = "Unknown";
+"Location" = "Location";
