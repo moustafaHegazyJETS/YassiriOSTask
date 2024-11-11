@@ -3,7 +3,7 @@
 Rick App is an application that is created for Yassir task.
 The main functionality of the app is to load data from [Rick and Morty API](https://rickandmortyapi.com/api).
 
-<img src="(https://github.com/user-attachments/assets/4af58907-d65b-412f-ae16-2fe2a01f6be8" width="600" height="400" />
+<img src="https://github.com/user-attachments/assets/4af58907-d65b-412f-ae16-2fe2a01f6be8" width="600" height="400" />
 
 ![](https://github.com/user-attachments/assets/4af58907-d65b-412f-ae16-2fe2a01f6be8)
 ![simulator_screenshot_BE0002BD-3FBD-4521-A9F8-7DF7BBA0335D](https://github.com/user-attachments/assets/fb8dd86e-b0fe-4027-aeae-c8b2218648fb)
